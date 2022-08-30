@@ -7,6 +7,8 @@ window.title('toDoList')
 window.config(bg='#111111')
 
 
+# kommentar
+
 def add_task():
     task = taskInput.get()
 
